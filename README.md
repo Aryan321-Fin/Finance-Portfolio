@@ -11,7 +11,7 @@ and Financial Modeling
 
 ## Projects
 
-###1. Fiancial Data Analysis
+### 1. Fiancial Data Analysis
 Description: Built interactive dashboard using Pivot Tables, Charts, and slicers 
 Analyzed monthly income, expenses, and EMI 
 Generated insights for better financial decision-making & Budgeting

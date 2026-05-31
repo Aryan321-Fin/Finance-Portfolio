@@ -4,10 +4,10 @@ Hi, I'm Aryan Chandra.
 I am a BBA student interested in FP&A, Financial Analysis,Power BI 
 and Financial Modeling 
 ## Skills
--Advanced Excel
--Power BI
--Financial Modeling
--Financial Statement Analysis 
+Advanced Excel |
+Power BI |
+Financial Modeling |
+Financial Statement Analysis | 
 
 ## Projects
 
